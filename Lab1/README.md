@@ -1,4 +1,4 @@
-# Lab 1: Environment Setup The Environment
+# Lab 1: Setup The Environment
 
 ## Objective
 The objective of this lab is to prepare and configure the development environment required for machine learning activities, including Python, Anaconda, and Visual Studio Code.
