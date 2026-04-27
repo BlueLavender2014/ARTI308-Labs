@@ -1,0 +1,1 @@
+We explored and prepared a loan dataset, then trained a Decision Tree and Random Forest model to predict loan repayment. After evaluating both models, we found that Random Forest performed better, but both had difficulty predicting the minority class due to imbalanced data.

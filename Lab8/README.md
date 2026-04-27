@@ -1,1 +1,0 @@
-In this lab we applied the KNN algorithm by scaling the data, splitting it into training and testing sets, training the model, and evaluating its performance. We then tested different K values to find the most accurate one.
