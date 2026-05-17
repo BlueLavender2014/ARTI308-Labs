@@ -1,1 +1,3 @@
+In this lab, we performed customer segmentation using the K-Means clustering algorithm on credit card customer data. First, we loaded and explored the dataset, checked for missing values, and cleaned the data by removing the customer ID column and filling missing values with the mean. After that, we visualized the data using graphs and scatter plots to better understand customer behavior.
 
+Next, we scaled the data and applied the K-Means algorithm to group customers into clusters. We used the Elbow Method and Silhouette Score to find the best number of clusters, which was K = 3. Finally, we analyzed the characteristics of each cluster and visualized the results using PCA to better understand the different types of customers.
